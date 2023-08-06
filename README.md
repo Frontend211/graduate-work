@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 | Студент           | Репозиторий                                                                                                    | Сборка                                                                           | Готовность                 |
 | ----------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | -------------------------- |
 | Виноградова Анна  | [https://github.com/AnnVinogradova/Flower](https://github.com/AnnVinogradova/Flower)                           | [https://flower-six-bice.vercel.app/](https://flower-six-bice.vercel.app/)       |                            |
@@ -9,3 +10,6 @@
 | Кривашкин Дмитрий | [https://github.com/NoMoreDreamsIV/???](https://github.com/NoMoreDreamsIV/???)                                 |                                                                                  |                            |
 | О Татьяна         | [https://github.com/YeJeeO/DanceStudio](https://github.com/YeJeeO/DanceStudio)                                 | [https://dance-studio-three.vercel.app/](https://dance-studio-three.vercel.app/) |                            |
 | Трофимов Николай  | [https://github.com/Yesenin95/???](https://github.com/Yesenin95/???)                                           |                                                                                  |                            |
+=======
+
+>>>>>>> 62a6aad1fb93456d60c29425699c60e593777192
